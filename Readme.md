@@ -7,7 +7,3 @@ Reference :
 3. Firebase Realtime Database : https://firebase.google.com/docs/database/web/read-and-write
 
 4. Implement Firebase : https://www.youtube.com/watch?v=qYER6hAgJik
-
-
-
-NB : firestore & realtimedatabase lg error kyknya (data tidak tersimpan)
